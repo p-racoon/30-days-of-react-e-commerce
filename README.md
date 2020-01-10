@@ -12,109 +12,110 @@ Thus we need to limit ourselves to certain basic Components namely:-
 
 ## Day-wise Tasks
 0. Basic Setup and get things started, and getting into schedule day.
-1. React Study Time
+**1. React Study Time**
     * Follow React Guides (Tic tac toe, To-do etc.)
     * Go through React Official Documentation.
     * Go through beginner react courses in egghead.io
 
-2. Functional only implementation of e-comm site
+**2. Functional only implementation of e-comm site**
     * Create basic e-comm application using functional components only.
     * Explore the possibility of using Preact
 
-3. OOPS
+**3. OOPS**
     * class based implementation of the e-comm site.
 
-4. Favourite Flavour Vanilla
+**4. Favourite Flavour Vanilla**
     * React Implementation without using JSX
 
-5. SE>DEV, shoot for SE you'll land amongst DEV's
+**5. SE>DEV, shoot for SE you'll land amongst DEV's**
     * Software Engineering Principles
     * Folder Structure Study
 
-6. Thinking ain't enough, Starting ain't Accomplishment
+**6. Thinking ain't enough, Starting ain't Accomplishment**
     * Folder structure Implementation/Division accordingly
 
-7. Redux vs Context API
+**7. Redux vs Context API**
     * Explore Redux vs Context API
 
-8. Trendy Typecript
+**8. Trendy Typecript**
     * Explore React implementation in TypeScript
 
-9. The Immutable the better
+**9. The Immutable the better**
     * Integrate immutablity into the application
     * Try Immutable.js
 
-10. International Love
+**10. International Love**
     * Implement Internationaliztion  
 
-11. Server Side Rendering React
+**11. Server Side Rendering React**
     * Next.js
     * Study transfor repo
     * Try SSR with Express React etc.
 
 ***11.5: Compilation Time - 1***
 
-12. Everyone is Specially Challenged, the question is when?
+**12. Everyone is Specially Challenged, the question is when?**
     * Accessibility
     * egghead course on Accessibility
 
-13. Power of Atoms
+**13. Power of Atoms**
     * Atomic design Principles
 
-14. Enough with bootstrap
+**14. Enough with bootstrap**
     * Tailwind CSS
     * egghead course/youtube channel
 
-15. Flexbox Solved it
+**15. Flexbox Solved it**
     * CSS tricks/egghead
 
-16. Everyone digs a good Story, Developers are no different.
+**16. Everyone digs a good Story, Developers are no different.**
     * StoryBook Demo/ Intigration
     * Story book guide
-17. Prev-1-2-3-Next
+
+**17. Prev-1-2-3-Next**
     * Pagination/Infinite Scrolling
 
-18. test.allTheThings()
+**18. test.allTheThings()**
     * Unit Testing
     * Integration testing
 
-19. Untill its tested, Software is not a Software.
+**19. Untill its tested, Software is not a Software.**
     * TDD
 
-20. State Machines
+**20. State Machines**
     * DDD
 
-21. State Machine
+**21. State Machine**
     * State Machine Implementation
     * egghead course on State
 
-22. Persistence is the Key
+**22. Persistence is the Key**
     * Persistent State
 
-**_22.5: Compilation Time - 2_**
+***_22.5: Compilation Time - 2_***
 
-23. A man is know by the design he keeps
+**23. A man is know by the design he keeps**
     * Adobe XD Design
     * Tutorials by Coursetro
 
-24. Monkey see UI, Monkey Develop UI
+**24. Monkey see UI, Monkey Develop UI**
     * UI implmentation/conversion
 
-25. Extra set of Features
+**25. Extra set of Features**
     * Notifications
     * Modals
     * Filters
     * Sort
 
-26. Librarization of Code - I
+**26. Librarization of Code - I**
 
-27. Librarization of Code - I
+**27. Librarization of Code - I**
 
-28. Payment gateway integration
+**28. Payment gateway integration**
 
-29. express Implementation
+**29. express Implementation**
 
-30. (sBuffer)
+**30. (sBuffer)**
     * SSR without next
 
 
