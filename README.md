@@ -5,6 +5,7 @@
 Amazon wasn't built in a day.
 E-commerce applications look deviously simple in terms of implementaion,However that is not the case, and lots of efforts goes into building one.
 Since I am limiting myself to just 30 days, in which for first 10 days I wish to implement the whole application all over again everyday.
+
 Thus we need to limit ourselves to certain basic Components namely:-
 1. Cart Page
 2. Product Catalogue
@@ -117,9 +118,10 @@ Thus we need to limit ourselves to certain basic Components namely:-
 
     * Persistent State
 
-***_22.5: Compilation Time - 2_***
+***_22.5: Compilation Time - 2***
 
 **23. A man is know by the design he keeps**
+
     * Adobe XD Design
     * Tutorials by Coursetro
 
@@ -143,6 +145,7 @@ Thus we need to limit ourselves to certain basic Components namely:-
 **29. express Implementation**
 
 **30. (sBuffer)**
+
     * SSR without next
 
 
